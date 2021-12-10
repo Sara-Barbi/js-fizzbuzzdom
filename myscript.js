@@ -1,1 +1,2 @@
-alert ("ciao")
+let index = document.getElementById("myblock")
+
